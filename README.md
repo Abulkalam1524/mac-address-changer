@@ -14,7 +14,7 @@ A simple Python tool that changes the MAC address of a network interface on Linu
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/mac-address-changer.git
+git clone https://github.com/Abulkalam1524/mac-address-changer.git
 cd mac-address-changer
 ```
 
