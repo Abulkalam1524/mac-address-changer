@@ -55,7 +55,8 @@ sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
 3. Re-reads the MAC address to confirm whether the change was successful.
 
 ## 📸 Demo
-<img width="604" height="303" alt="image" src="https://github.com/user-attachments/assets/0c64f966-7c71-40b8-b96b-f34192ec0301" />
+<img width="704" height="358" alt="image" src="https://github.com/user-attachments/assets/bb24031e-ad6b-4e8c-9b2d-e7dcfe5ee509" />
+
 
 
 ## ⚠️ Disclaimer
